@@ -1,3 +1,3 @@
 # Gitpod config to provide the Angular training
 
-Angular 11.2.3
+Angular 12.0.1
